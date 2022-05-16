@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Job4jAuthApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ru.job4j.Job4jAuthApplication.class, args);
+        SpringApplication.run(Job4jAuthApplication.class, args);
     }
 
 }
